@@ -45,12 +45,12 @@ export const client = {
     { before: "/images/drive-before.jpg", after: "/images/drive-after.jpg", label: "Driveway" },
   ] as { before: string; after: string; label: string }[],
   reviews: [
-    { name: "Sarah M.", rating: 5, text: "Absolutely fantastic work. Professional from start to finish. Couldn't recommend more highly.", date: "2 weeks ago", badge: "Local Guide" },
-    { name: "James T.", rating: 5, text: "Brilliant job. They understood exactly what we wanted and delivered beyond expectations.", date: "1 month ago" },
-    { name: "Karen D.", rating: 5, text: "Best in the area. Transformed our garden into something we're genuinely proud of.", date: "3 weeks ago", badge: "Local Guide" },
-    { name: "David R.", rating: 5, text: "From consultation to completion, everything was handled professionally. Fair pricing throughout.", date: "2 months ago" },
-    { name: "Emma W.", rating: 5, text: "Beautiful results. They delivered exactly what we asked for with a stunning finish.", date: "1 month ago" },
-    { name: "Paul H.", rating: 5, text: "Outstanding quality. Neighbours keep stopping to compliment the work. Highly recommended.", date: "3 weeks ago", badge: "Local Guide" },
+    { name: "Lesley Muddiman", rating: 5, text: "Darren and his team were fabulous, they cleared our very overgrown garden and left it looking clean and tidy, we would highly recommend Thames maintenance Ltd.", date: "8 months ago" },
+    { name: "Ethel Wivic", rating: 5, text: "Top Job.    Replaced 5 fence pots damaged in strong winds and also performed other maintenance on fencing not in scope!   All left neat and tidy afterwards.  Great job by Darren  CW", date: "a year ago" },
+    { name: "Duncan Graham", rating: 5, text: "Would highly recommend Darren and his team. Prompt, efficient service and restored a much neglected house (gardens and fences) to the original order. Never seen so many weeds and fence ivy disappear  so promptly.", date: "a year ago" },
+    { name: "tiago costa", rating: 5, text: "Darren was super helpful and easy to communicate with. The work he carried out as 1st and really went above an beyond. I would use Darren services again has it was reliable but ultimate great service.", date: "3 years ago" },
+    { name: "Jerome Cann", rating: 5, text: "I needed some Ivy trimmed right back and tidied on the front of my house a small tree removed and garden tidied. Darren did a great job. Communication was very good, and turned up when arranged. Also came back to do a couple of extras!", date: "3 years ago" },
+    { name: "Liz Pollitt", rating: 5, text: "A great service. Darren did a great job clearing leaves, trimming shrubs and generally tidying up the garden. Obtaining a quote, a date for the work and making payment was easy and efficient. Darren very kindly went above and beyond in proving photos as well.", date: "3 years ago" },
   ] as { name: string; rating: number; text: string; date: string; badge?: string }[],
   seo: {
     title: "Thames Maintenance Ltd | Professional Garden Maintenance in High Wycombe",
